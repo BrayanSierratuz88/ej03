@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Luis francisco Sierra
+=======
+Luis francisco sierra
+>>>>>>> brayan
 
