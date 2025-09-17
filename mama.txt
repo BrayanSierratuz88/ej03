@@ -1,5 +1,9 @@
-<<<<<<< HEAD
+ Edwin
+ HEAD
 Wendy maribel tuz
-=======
+
 Edwin
->>>>>>> edwin
+ edwin
+
+Blanca
+ main
