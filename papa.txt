@@ -1,8 +1,10 @@
-<<<<<<< HEAD
+brayan
+HEAD
 Luis francisco Sierra
-=======
 Luis francisco sierra
->>>>>>> brayan
+
 
 Edwin 
 edwin
+Edwin
+ main
